@@ -74,20 +74,9 @@
 }
 
 
-/*BOTAO MOBILE*/
-#bt-menu{
-    display: none;
-}
-
-
-/*MOBILE*/
-
 @media (max-width: 780px){
 
     /*MENU MOBILE*/
-    #bt-menu{
-        display: block;
-    }
     .cabecalhoPrincipal .container{
         flex-direction: column;
     }
